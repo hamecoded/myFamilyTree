@@ -1225,8 +1225,8 @@
 			'name':	'node-name',
 			'title':	'node-title',
 			'birthdate':	'node-birthdate',
-			'birthplace':	'node-desc',
-			'contact': 'node-contact'
+			'birthplace':	'node-birthplace',
+			'note': 'node-note'
 		}
 	};
 

@@ -10,11 +10,16 @@
 			"text":{
 				"name": "רותי סגיר",
 				"title": "אמא",
-				"birthdate": "",
-				"birthplace": "ישראל"
+				"birthdate": "8.10.1976",
+				"birthplace": "ישראל",
+				"note": "יש למלא את הפרטים לח לחלך. ךלךלח ךלח ךלח לךח ךף חךל"
 			},
 			"image": "assets/oded.jpg",
-			"HTMLclass": "pink"
+			"HTMLclass": "pink root",
+			"collapsable": true,
+			"collapsed": true,
+			"children": [
+			]
 		},
 		{   
 			"text":{
@@ -45,6 +50,8 @@
 			},
 			"image": "assets/oded.jpg",
 			"HTMLclass": "blue root",
+			"collapsable": true,
+			"collapsed": false,
 			"children": [
 				{   
 					"text":{
@@ -78,6 +85,8 @@
 							},
 							"image": "assets/oded.jpg",
 							"HTMLclass": "blue",
+							"collapsable": true,
+							"collapsed": true,
 							"children": [
 								{   
 									"text":{
@@ -132,6 +141,8 @@
 							},
 							"image": "assets/oded.jpg",
 							"HTMLclass": "pink",
+							"collapsable": true,
+							"collapsed": true,
 							"children": [
 								{   
 									"text":{
