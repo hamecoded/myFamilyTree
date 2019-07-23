@@ -1,0 +1,245 @@
+ {
+	"text": {
+		"name": "עודד סגיר",
+		"birthdate": "30.12.1974",
+		"birthplace": "ישראל"
+	},
+	"image": "assets/oded.jpg",
+	"children": [
+		{   
+			"text":{
+				"name": "רועי סגיר",
+				"title": "בן",
+				"birthdate": "30.4.2011",
+				"birthplace": "ישראל"
+			},
+			"image": "assets/oded.jpg",
+			"HTMLclass": "blue"
+		},
+		{   
+			"text":{
+				"name": "נויה סגיר",
+				"title": "בת",
+				"birthdate": "2.12.2008",
+				"birthplace": "ישראל"
+			},
+			"image": "assets/oded.jpg",
+			"HTMLclass": "pink"
+		},
+		{   
+			"childrenDropLevel": 1,
+			"text":{
+				"name": "רינה תורגמן",
+				"title": "אמא",
+				"birthdate": "",
+				"birthplace": "ישראל"
+			},
+			"image": "assets/oded.jpg",
+			"HTMLclass": "pink",
+			"children": [
+				{   
+					"text":{
+						"name": "חיים תורגמן",
+						"title": "אבא",
+						"birthdate": "1907",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue"
+				},
+				{   
+					"text":{
+						"name": "רחל אלקלעי",
+						"title": "אמא",
+						"birthdate": "1911",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "pink"
+				},
+				{   
+					"text":{
+						"name": "יעקב תורגמן",
+						"title": "אח",
+						"birthdate": "19--",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue",
+					"children": [
+						{   
+							"text":{
+								"name": "בועז תורגמן",
+								"title": "בן",
+								"birthdate": "19--",
+								"birthplace": "ישראל"
+							},
+							"image": "assets/oded.jpg",
+							"HTMLclass": "blue",
+							"children": [
+								{   
+									"text":{
+										"name": "נאווה",
+										"title": "גרושתו",
+										"birthdate": "19--",
+										"birthplace": "ישראל"
+									},
+									"image": "assets/oded.jpg",
+									"HTMLclass": "pink"
+								},
+								{   
+									"text":{
+										"name": "נאווה",
+										"title": "גרושתו",
+										"birthdate": "19--",
+										"birthplace": "ישראל"
+									},
+									"image": "assets/oded.jpg",
+									"HTMLclass": "pink"
+								}
+							]
+						}
+					]
+				},
+				{   
+					"text":{
+						"name": "מירים מגד",
+						"title": "אחות",
+						"birthdate": "19--",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "pink",
+					"children": [
+						{   
+							"text":{
+								"name": "עופר מגד",
+								"title": "בן",
+								"birthdate": "19--",
+								"birthplace": "ישראל"
+							},
+							"image": "assets/oded.jpg",
+							"HTMLclass": "blue"
+						},
+						{   
+							"text":{
+								"name": "צחי מגד",
+								"title": "בן",
+								"birthdate": "19--",
+								"birthplace": "ישראל"
+							},
+							"image": "assets/oded.jpg",
+							"HTMLclass": "blue",
+							"children": [
+								{   
+									"text":{
+										"name": "כרם מגד",
+										"title": "בת",
+										"birthdate": "19--",
+										"birthplace": "ישראל"
+									},
+									"image": "assets/oded.jpg",
+									"HTMLclass": "pink"
+								}
+							]
+						},
+						{   
+							"text":{
+								"name": "יעל מגד",
+								"title": "בת",
+								"birthdate": "19--",
+								"birthplace": "ישראל"
+							},
+							"image": "assets/oded.jpg",
+							"HTMLclass": "pink"
+						}
+					]
+				}
+			]
+		},
+		{   
+			"text":{
+				"name": "אברהם סגיר",
+				"title": "אבא",
+				"birthdate": "13.2.1944",
+				"birthplace": "ישראל"
+			},
+			"image": "assets/oded.jpg",
+			"HTMLclass": "blue",
+			"children": [
+				{   
+					"text":{
+						"name": "יחזקאל סגיר",
+						"title": "אבא",
+						"birthdate": "13.2.1944",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue",
+					"children": [
+					]
+				},
+				{   
+					"text":{
+						"name": "ג׳ולייט סגיר",
+						"title": "אמא",
+						"birthdate": "13.2.1944",
+						"birthplace": "עיראק"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue",
+					"children": [
+					]
+				},
+				{   
+					"text":{
+						"name": "יצחק סגיר",
+						"title": "אח",
+						"birthdate": "13.2.1944",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue",
+					"children": [
+					]
+				},
+				{   
+					"text":{
+						"name": "יעקב סגיר",
+						"title": "אח",
+						"birthdate": "13.2.1944",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue",
+					"children": [
+					]
+				},
+				{   
+					"text":{
+						"name": "רותי סגיר",
+						"title": "אחות",
+						"birthdate": "13.2.1944",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue",
+					"children": [
+					]
+				},
+				{   
+					"text":{
+						"name": "עוזי סגיר",
+						"title": "אח",
+						"birthdate": "13.2.1944",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue",
+					"children": [
+					]
+				}
+			]
+		}
+	]
+}
