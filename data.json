@@ -5,29 +5,9 @@
 		"birthplace": "ישראל"
 	},
 	"image": "assets/oded.jpg",
+	"HTMLclass": "root",
 	"children": [
 		{   
-			"text":{
-				"name": "רועי סגיר",
-				"title": "בן",
-				"birthdate": "30.4.2011",
-				"birthplace": "ישראל"
-			},
-			"image": "assets/oded.jpg",
-			"HTMLclass": "blue"
-		},
-		{   
-			"text":{
-				"name": "נויה סגיר",
-				"title": "בת",
-				"birthdate": "2.12.2008",
-				"birthplace": "ישראל"
-			},
-			"image": "assets/oded.jpg",
-			"HTMLclass": "pink"
-		},
-		{   
-			"childrenDropLevel": 1,
 			"text":{
 				"name": "רינה תורגמן",
 				"title": "אמא",
@@ -35,18 +15,8 @@
 				"birthplace": "ישראל"
 			},
 			"image": "assets/oded.jpg",
-			"HTMLclass": "pink",
+			"HTMLclass": "pink root",
 			"children": [
-				{   
-					"text":{
-						"name": "חיים תורגמן",
-						"title": "אבא",
-						"birthdate": "1907",
-						"birthplace": "ישראל"
-					},
-					"image": "assets/oded.jpg",
-					"HTMLclass": "blue"
-				},
 				{   
 					"text":{
 						"name": "רחל אלקלעי",
@@ -55,7 +25,7 @@
 						"birthplace": "ישראל"
 					},
 					"image": "assets/oded.jpg",
-					"HTMLclass": "pink"
+					"HTMLclass": "pink root"
 				},
 				{   
 					"text":{
@@ -154,8 +124,38 @@
 							"HTMLclass": "pink"
 						}
 					]
+				},
+				{   
+					"text":{
+						"name": "חיים תורגמן",
+						"title": "אבא",
+						"birthdate": "1907",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue root"
 				}
 			]
+		},
+		{   
+			"text":{
+				"name": "רועי סגיר",
+				"title": "בן",
+				"birthdate": "30.4.2011",
+				"birthplace": "ישראל"
+			},
+			"image": "assets/oded.jpg",
+			"HTMLclass": "blue"
+		},
+		{   
+			"text":{
+				"name": "נויה סגיר",
+				"title": "בת",
+				"birthdate": "2.12.2008",
+				"birthplace": "ישראל"
+			},
+			"image": "assets/oded.jpg",
+			"HTMLclass": "pink"
 		},
 		{   
 			"text":{
@@ -165,20 +165,8 @@
 				"birthplace": "ישראל"
 			},
 			"image": "assets/oded.jpg",
-			"HTMLclass": "blue",
+			"HTMLclass": "blue root",
 			"children": [
-				{   
-					"text":{
-						"name": "יחזקאל סגיר",
-						"title": "אבא",
-						"birthdate": "13.2.1944",
-						"birthplace": "ישראל"
-					},
-					"image": "assets/oded.jpg",
-					"HTMLclass": "blue",
-					"children": [
-					]
-				},
 				{   
 					"text":{
 						"name": "ג׳ולייט סגיר",
@@ -187,7 +175,7 @@
 						"birthplace": "עיראק"
 					},
 					"image": "assets/oded.jpg",
-					"HTMLclass": "blue",
+					"HTMLclass": "blue root",
 					"children": [
 					]
 				},
@@ -236,6 +224,18 @@
 					},
 					"image": "assets/oded.jpg",
 					"HTMLclass": "blue",
+					"children": [
+					]
+				},
+				{   
+					"text":{
+						"name": "יחזקאל סגיר",
+						"title": "אבא",
+						"birthdate": "13.2.1944",
+						"birthplace": "ישראל"
+					},
+					"image": "assets/oded.jpg",
+					"HTMLclass": "blue root",
 					"children": [
 					]
 				}
